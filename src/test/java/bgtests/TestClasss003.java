@@ -1,4 +1,4 @@
-package t000002NewCommand;
+package bgtests;
 
 
 import org.aeonbits.owner.ConfigFactory;

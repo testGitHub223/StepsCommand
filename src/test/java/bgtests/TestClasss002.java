@@ -1,4 +1,4 @@
-package t000002NewCommand;
+package bgtests;
 
 
 import org.aeonbits.owner.ConfigFactory;
@@ -10,7 +10,6 @@ import org.slf4j.LoggerFactory;
 import t000002NewCommand.a.core.IApp;
 import t000002NewCommand.a.core.ICommand;
 
-import t000002NewCommand.a.modules.moduleSelenium.IAppBrowser;
 import t000002NewCommand.a.modules.moduleSelenium.browsers.commands.CommandBrowserStart;
 import t000002NewCommand.a.modules.moduleSelenium.seleniumElements.commandsAction.CommandSeleniumElementClick;
 import t000002NewCommand.a.modules.moduleSelenium.seleniumElements.commandsAction.CommandSeleniumElementGetText;
