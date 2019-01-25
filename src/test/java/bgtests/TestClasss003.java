@@ -19,10 +19,10 @@ import t000002NewCommand.a.modules.moduleSelenium.seleniumElements.commandsActio
 import t000002NewCommand.a.modules.moduleSelenium.seleniumElements.commandsAction.CommandSeleniumElementSendKeys;
 import t000002NewCommand.a.modules.moduleSelenium.seleniumElements.seleniumElements.ISeleniumElement;
 
-import t000002NewCommand.a.modules.moduleSelenium.seleniumElements.seleniumElements.SeleniumElementEmailInput;
-import t000002NewCommand.a.modules.moduleSelenium.seleniumElements.seleniumElements.SeleniumElementMenuName;
-import t000002NewCommand.a.modules.moduleSelenium.seleniumElements.seleniumElements.SeleniumElementPasswordInput;
-import t000002NewCommand.a.modules.moduleSelenium.seleniumElements.seleniumElements.SeleniumElementSubmitButton;
+import t000002NewCommand.a.bg.seleniumElements.SeleniumElementEmailInput;
+import t000002NewCommand.a.bg.seleniumElements.SeleniumElementMenuName;
+import t000002NewCommand.a.bg.seleniumElements.SeleniumElementPasswordInput;
+import t000002NewCommand.a.bg.seleniumElements.SeleniumElementSubmitButton;
 import t000002NewCommand.a.core.coreServerConfig.IServerConfig;
 import t000002NewCommand.a.core.coreUrl.AuthEmailPage;
 import t000002NewCommand.a.core.coreUrl.IPage;

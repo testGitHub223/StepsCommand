@@ -1,7 +1,8 @@
-package t000002NewCommand.a.modules.moduleSelenium.seleniumElements.seleniumElements;
+package t000002NewCommand.a.bg.seleniumElements;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import t000002NewCommand.a.modules.moduleSelenium.seleniumElements.seleniumElements.SeleniumElementAbstract;
 
 public class SeleniumElementMenuName extends SeleniumElementAbstract {
 
